@@ -75,7 +75,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Project: Clone Twitter - yes, all the functionality
 - [ ]  Course: [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)    
 - [ ]  Course: [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)    
-- [ ]  Course: [Machine Learning](https://www.coursera.org/learn/machine-learning)  
+- [X]  Course: [Machine Learning](https://www.coursera.org/learn/machine-learning)  
 - [ ]  Project: Design, implement, test, and deploy a game that is playable on the web, using the technologies of your choice. The only criteria are that it be playable online, and that it inculde a substantial AI component.
 - [ ]  Project: Complete all Classic Puzzles - Very Hard on [CodinGame](https://www.codingame.com/) in JavaScript     
 - [ ]  Project: Create a node module that will convert markdown to properly formatted html
