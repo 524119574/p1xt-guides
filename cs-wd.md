@@ -33,7 +33,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want. 
 - [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)    
 - [ ]  Book:  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- [X]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page 
+- [X]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page   
 You can find my clone [here](https://deserted-garden.surge.sh/), it's not 100% accurate though, but there are not important details such as font, font-size and font-weight stuff.
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [ ]  Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation       
