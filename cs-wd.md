@@ -37,7 +37,8 @@ only watched first three parts of the courses, didn't watch the rest two parts a
 - [ ]  Book:  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [X]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page   
 You can find my clone [here](https://deserted-garden.surge.sh/), it's not 100% accurate though, but there are not important details such as font, font-size and font-weight stuff. There is a little thing that I forgot, that is I didn't add the nav title color change when its responding section is seen.
-- [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
+- [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)  
+Might also check out the [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) and [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
 - [ ]  Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation       
 - [ ]  Project:  Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue
 - [ ]  Book: [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/) 
