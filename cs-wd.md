@@ -29,7 +29,9 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Book:  [DOM Enlightenment](http://domenlightenment.com/)    
 - [X]  Project:  Simon Game from the frontend section of FCC    
 - [ ]  Project:  Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript        
-- [ ]  Course:  [Introduction to MongoDB using the MEAN Stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0) on edX    
+- [x]  Course:  [Introduction to MongoDB using the MEAN Stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0) on edX  
+only watched first three parts of the courses, didn't watch the rest two parts about angular and ionic since I prefer using VUE. So I consider myself done on this course.
+
 - [ ]  The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want. 
 - [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)    
 - [ ]  Book:  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
